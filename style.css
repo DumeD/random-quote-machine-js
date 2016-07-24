@@ -1,0 +1,26 @@
+.top h1 {
+  font-size: 3.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.random-quote {
+  margin-top: 3em;
+}
+
+.tweet {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#quote {
+  font-family: 'PT Sans', sans-serif;
+}
+
+#author {
+  font-family: "Arimo", sans-serif;
+}
+
+.long-tweet {
+  padding-top: 40px;
+  font-family: 'Montserrat',sans-serif;
+}
