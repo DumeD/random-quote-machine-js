@@ -1,5 +1,4 @@
 var url = "http://api.forismatic.com/api/1.0/?method=getQuote&key=random&format=jsonp&lang=en&jsonp=?";
-var a = 9;
 $(document).ready(function() {
   $("#gen").on("click",function() {
     $.getJSON(url, function(val) {
